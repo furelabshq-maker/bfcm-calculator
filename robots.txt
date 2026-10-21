@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://furelabshq-maker.github.io/bfcm-calculator/sitemap.xml
